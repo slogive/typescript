@@ -12,3 +12,6 @@ let binary: number = 0b01;
 let octal: number = 0o744;
 
 let state: boolean = true;
+
+let username: string;
+username = 'Cesar Fonseca';
